@@ -1,4 +1,4 @@
-# Home task 2 (NLTK App for input nouns analysis and generating statistical graphs)
+# NLTK App for input nouns analysis and generating statistical graphs.
 
 ## 1: Initial Setup
 
